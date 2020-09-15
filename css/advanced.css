@@ -1,0 +1,16 @@
+@font-face {
+	font-family: 'pt-sans/PTC55F';
+	src: url('../font/pt-sans/PTC55F.ttf') format('ttf');
+	font-weight: normal;
+	font-style: normal;
+}
+
+body {
+	font-family: 'pt-sans/PTC55F', sans-serif;
+	padding: 2rem;
+	font-size: 18px;
+}
+
+#complete {
+	font-size: 8px;
+}

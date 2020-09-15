@@ -26,9 +26,9 @@ Coursework for textbook "Beginning SVG"
 - [x] **Chapter 1: Introducing SVG**
 - [ ] **Chapter 2: Adding SVG Content to a Page**
   - [ ] Implementing SVG Shapes
-    - [ ] Creating Squares and Rectangles
-    - [ ] Drawing Circles and Ellipses
-    - [ ] Drawing Lines, Polylines, and Polygons
+    - [x] Creating Squares and Rectangles
+    - [x] Drawing Circles and Ellipses
+    - [x] Drawing Lines, Polylines, and Polygons
     - [ ] Constructing Paths and Markers
   - [ ] Creating More Advanced Shapes
     - [ ] Dissecting Our Gauge Code
@@ -181,6 +181,8 @@ Coursework for textbook "Beginning SVG"
 - https://css-tricks.com/a-complete-guide-to-svg-fallbacks/
 - https://codepan.io/tigt/post/inline-svg-fallback-without-javascript-take-2/
 - http://www.grunticon.com/
+- http://www.superhero-studios.com/
+- 
 
 
 
