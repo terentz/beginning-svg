@@ -1,0 +1,26 @@
+@font-face {
+	font-family: 'pt-sans/PTC55F';
+	src: url('../font/pt-sans/PTC55F.ttf') format('ttf');
+	font-weight: normal;
+	font-style: normal;
+}
+
+body {
+	font-family: 'pt-sans/PTC55F', sans-serif;
+	padding: 2rem;
+}
+
+span {
+	width: 200px;
+	vertical-align: top;
+}
+
+svg {
+	display: inline-block;
+	height: 200px;
+	padding-top: 20px;
+}
+
+#squareID, #rectangleID {
+	margin-left: -125px;
+}

@@ -39,6 +39,11 @@ Coursework for textbook "Beginning SVG"
 - https://pixabay.com/en/
 - https://svgstock.com/
 - http://caniuse.com/#search=SVG
+- http://dmitrybaranovskiy.github.io/raphael/
+- https://css-tricks.com/a-complete-guide-to-svg-fallbacks/
+- https://codepan.io/tigt/post/inline-svg-fallback-without-javascript-take-2/
+- http://www.grunticon.com/
+
 
 
 
