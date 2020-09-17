@@ -25,24 +25,24 @@ Coursework for textbook "Beginning SVG"
 
 - [x] **Chapter 1: Introducing SVG**
 - [ ] **Chapter 2: Adding SVG Content to a Page**
-  - [ ] Implementing SVG Shapes
+  - [x] Implementing SVG Shapes
     - [x] Creating Squares and Rectangles
     - [x] Drawing Circles and Ellipses
     - [x] Drawing Lines, Polylines, and Polygons
-    - [ ] Constructing Paths and Markers
+    - [x] Constructing Paths and Markers
   - [ ] Creating More Advanced Shapes
     - [ ] Dissecting Our Gauge Code
-  - [ ] Creating Unusual Shapes with Clip-Paths
-  - [ ] Painting Elements
-  - [ ] Creating Gradients and Patterns
-    - [ ] Constructing Gradients
-    - [ ] Using Radial Gradients
-    - [ ] Taking It Further
-    - [ ] Applying Pattern Effects to CSS Backgrounds
+  - [x] Creating Unusual Shapes with Clip-Paths
+  - [x] Painting Elements
+  - [x] Creating Gradients and Patterns
+    - [x] Constructing Gradients
+    - [x] Using Radial Gradients
+    - [x] Taking It Further
+    - [x] Applying Pattern Effects to CSS Backgrounds
   - [ ] Setting Advanced Configuration Options
   - [ ] Summary
 
-### Part II: In More Detail 
+### Part II: In More Detail
 
 - [ ] **Chapter 3: Working with Images and Text**
   - [ ] Inserting Images
@@ -169,6 +169,7 @@ Coursework for textbook "Beginning SVG"
 
 ## Links
 
+- https://github.com/Apress/beginning-svg/
 - https://nodejs.org/en/
 - https://github.com/coreybutler/nvm-windows
 - https://www.fontsquirrel.com/fonts/pt-sans
@@ -182,10 +183,13 @@ Coursework for textbook "Beginning SVG"
 - https://codepan.io/tigt/post/inline-svg-fallback-without-javascript-take-2/
 - http://www.grunticon.com/
 - http://www.superhero-studios.com/
-- 
-
-
-
-
-
-
+- http://www.sarasoueidan.com/blog/css-svg-clipping/
+- https://codepen.io/sdras/pen/gaxGBB/
+- http://angrytools.com/gradient/
+- http://www.heropatterns.com/
+- https://codepen.io/elliz/pen/ygvgay/
+- https://developer.mozilla.org/en-US/docs/Web/SVG/Attribute/
+- https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model#SVG_interfaces
+- http://devdocs.io/svg/attribute/
+- https://www.w3.org/TR/SVG11/
+- http://www.december.com/html/spec/colorsvg.html
